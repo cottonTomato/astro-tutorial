@@ -25,8 +25,8 @@ module.exports = {
   },
   ignorePatterns: [
     '.eslintrc.cjs',
-    '.prettierrc.cjs',
-    '.tailwindrc.cjs',
+    'prettier.config.mjs',
+    'tailwind.config.js',
     'astro.config.ts',
     'node_modules',
     'dist',
